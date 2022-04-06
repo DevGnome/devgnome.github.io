@@ -9,7 +9,7 @@ version: 2
 name: Hugh Witchella
 title: Software Engineering Student
 email: hjwitchellacoding@gmail.com
-website: www.github.com/devgnome
+# website: www.github.com/devgnome
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -17,7 +17,7 @@ darkmode: true
 # Social links
 twitter_username: hjwcoding
 github_username:  DevGnome
-stackoverflow_username: "DevGnome"
+stackoverflow_username: "16953209"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -101,9 +101,6 @@ content:
       - History
       - Trivia
       
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
